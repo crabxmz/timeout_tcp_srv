@@ -1,6 +1,7 @@
 # timeout_tcp_srv
 ## introduction
-Linux tcp server demo.  
+Linux tcp server Reactor-Mode demo.
+
 ![avatar](https://pic1.zhimg.com/v2-2d1937b825ccab23ecb86845c2b44944_r.jpg)
 ## detail
 io复用  
